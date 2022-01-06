@@ -1,6 +1,7 @@
 /*
 -------------------------------------------------------
 l01.s
+Task 1
 Assign to and add contents of registers.
 -------------------------------------------------------
 Author:  Aidan Traboulay
